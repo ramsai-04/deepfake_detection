@@ -1014,3 +1014,4 @@ The current work has established the dataset preparation and video-model foundat
 The remaining work is primarily focused on completing robust video training/evaluation, developing the audio detection branch, improving image evaluation, combining the three modalities through a validated fusion strategy, and integrating the complete system into a unified inference API.
 
 The final objective is to compare **single-modality detection against multimodal detection** and determine whether combining visual and audio information provides better and more generalizable deepfake detection.
+THE END
